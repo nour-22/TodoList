@@ -1,0 +1,25 @@
+{
+  "todos": [
+    {
+      "id": "1cb96518-cd38-4ae3-957e-890984623304",
+      "content": "make video",
+      "category": "personal",
+      "done": false,
+      "createdAt": 1698869605224
+    },
+    {
+      "id": "fee2401e-5940-4759-aa98-2a237921142c",
+      "content": "make lunch",
+      "category": "personal",
+      "done": true,
+      "createdAt": 1698869617653
+    },
+    {
+      "id": "e820764e-395a-416d-84fa-ddc42b5c7f9a",
+      "content": "helloo",
+      "category": "important",
+      "done": false,
+      "createdAt": 1698872410194
+    }
+  ]
+}
